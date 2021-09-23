@@ -1,0 +1,15 @@
+.container {
+  display: block;
+  width: 300px;
+  text-align: center;
+}
+
+#timebox {
+  display: block;
+  margin-left: 75px;
+  margin-bottom: 30px;
+}
+
+input {
+  background-color: #fff;
+}
